@@ -4,5 +4,7 @@
 "icons":
     [
         {"name":"ydy-logo.png", "url":"https://raw.githubusercontent.com/Livan-91/fb-qx-icons/main/icon/ydy-logo.png"},
+        {"name":"ydy-logo1.png", "url":"https://raw.githubusercontent.com/Livan-91/fb-qx-icons/main/icon/ydy-logo1.png"},
+        {"name":"hhy-logo.png", "url":"https://raw.githubusercontent.com/Livan-91/fb-qx-icons/main/icon/hhy-logo.png"},
     ]
 }
