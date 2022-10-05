@@ -3,8 +3,8 @@
 "description":"for own use", 
 "icons":
     [
-        {"name":"ss.png", "url":"https://raw.githubusercontent.com/Livan-91/fb-qx-icons/main/icon/ss.png"},
-        {"name":"yh-ss.png", "url":"https://raw.githubusercontent.com/Livan-91/fb-qx-icons/main/icon/yh-ss.png"},
-        {"name":"yh-v2.png", "url":"https://raw.githubusercontent.com/Livan-91/fb-qx-icons/main/icon/yh-v2.png"},
+        {"name":"ss.png", "url":"https:\/\/raw.githubusercontent.com\/Livan-91\/fb-qx-icons\/main\/icon\/ss.png"},
+        {"name":"yh-ss.png", "url":"https:\/\/raw.githubusercontent.com\/Livan-91\/fb-qx-icons\/main\/icon\/yh-ss.png"},
+        {"name":"yh-v2.png", "url":"https:\/\/raw.githubusercontent.com\/Livan-91\/fb-qx-icons\/main\/icon\/yh-v2.png"},
     ]
 }
